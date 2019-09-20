@@ -1,0 +1,21 @@
+"","rules","support","confidence","lift","count"
+"116","{acarbose=No,glyburide.metformin=No,discharge_disposition_id=Another_hopital} => {readmitted=Within30days}",0.0201731601731602,0.685966633954858,1.37471046075974,699
+"6","{glyburide.metformin=No,discharge_disposition_id=Another_hopital} => {readmitted=Within30days}",0.0201731601731602,0.685294117647059,1.37336270540605,699
+"106","{nateglinide=No,glyburide.metformin=No,discharge_disposition_id=Another_hopital} => {readmitted=Within30days}",0.0201731601731602,0.685294117647059,1.37336270540605,699
+"117","{chlorpropamide=No,glyburide.metformin=No,discharge_disposition_id=Another_hopital} => {readmitted=Within30days}",0.0201731601731602,0.685294117647059,1.37336270540605,699
+"118","{tolazamide=No,glyburide.metformin=No,discharge_disposition_id=Another_hopital} => {readmitted=Within30days}",0.0201731601731602,0.685294117647059,1.37336270540605,699
+"119","{miglitol=No,glyburide.metformin=No,discharge_disposition_id=Another_hopital} => {readmitted=Within30days}",0.0201731601731602,0.685294117647059,1.37336270540605,699
+"120","{tolbutamide=No,glyburide.metformin=No,discharge_disposition_id=Another_hopital} => {readmitted=Within30days}",0.0201731601731602,0.685294117647059,1.37336270540605,699
+"121","{glyburide.metformin=No,glipizide.metformin=No,discharge_disposition_id=Another_hopital} => {readmitted=Within30days}",0.0201731601731602,0.685294117647059,1.37336270540605,699
+"122","{glyburide.metformin=No,metformin.pioglitazone=No,discharge_disposition_id=Another_hopital} => {readmitted=Within30days}",0.0201731601731602,0.685294117647059,1.37336270540605,699
+"123","{troglitazone=No,glyburide.metformin=No,discharge_disposition_id=Another_hopital} => {readmitted=Within30days}",0.0201731601731602,0.685294117647059,1.37336270540605,699
+"124","{glyburide.metformin=No,metformin.rosiglitazone=No,discharge_disposition_id=Another_hopital} => {readmitted=Within30days}",0.0201731601731602,0.685294117647059,1.37336270540605,699
+"7","{acarbose=No,discharge_disposition_id=Another_hopital} => {readmitted=Within30days}",0.0201731601731602,0.683284457478006,1.36933524879196,699
+"107","{nateglinide=No,acarbose=No,discharge_disposition_id=Another_hopital} => {readmitted=Within30days}",0.0201731601731602,0.683284457478006,1.36933524879196,699
+"125","{chlorpropamide=No,acarbose=No,discharge_disposition_id=Another_hopital} => {readmitted=Within30days}",0.0201731601731602,0.683284457478006,1.36933524879196,699
+"126","{acarbose=No,tolazamide=No,discharge_disposition_id=Another_hopital} => {readmitted=Within30days}",0.0201731601731602,0.683284457478006,1.36933524879196,699
+"127","{acarbose=No,miglitol=No,discharge_disposition_id=Another_hopital} => {readmitted=Within30days}",0.0201731601731602,0.683284457478006,1.36933524879196,699
+"128","{tolbutamide=No,acarbose=No,discharge_disposition_id=Another_hopital} => {readmitted=Within30days}",0.0201731601731602,0.683284457478006,1.36933524879196,699
+"129","{acarbose=No,glipizide.metformin=No,discharge_disposition_id=Another_hopital} => {readmitted=Within30days}",0.0201731601731602,0.683284457478006,1.36933524879196,699
+"130","{acarbose=No,metformin.pioglitazone=No,discharge_disposition_id=Another_hopital} => {readmitted=Within30days}",0.0201731601731602,0.683284457478006,1.36933524879196,699
+"131","{acarbose=No,troglitazone=No,discharge_disposition_id=Another_hopital} => {readmitted=Within30days}",0.0201731601731602,0.683284457478006,1.36933524879196,699
